@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.90bb6cc6.js",
-    "index.html": "/index.html",
-    "main.90bb6cc6.js.map": "/static/js/main.90bb6cc6.js.map"
+    "main.js": "/uchiru-challenge/static/js/main.749e2fc8.js",
+    "index.html": "/uchiru-challenge/index.html",
+    "main.749e2fc8.js.map": "/uchiru-challenge/static/js/main.749e2fc8.js.map"
   },
   "entrypoints": [
-    "static/js/main.90bb6cc6.js"
+    "static/js/main.749e2fc8.js"
   ]
 }
